@@ -1,0 +1,5 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{background:radial-gradient(circle at 20% 0%,#1b1245 0,#07060f 55%);color:#e8e6ff;min-height:100vh;font-family:system-ui,sans-serif}
+.glass{background:rgba(255,255,255,.05);backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.12);border-radius:20px}
+.btn{background:linear-gradient(135deg,#7c5cff,#22d3ee);color:#07060f;font-weight:700;padding:.6rem 1.2rem;border-radius:12px}
+.inp{width:100%;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.15);border-radius:12px;padding:.7rem;color:#fff}
